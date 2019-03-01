@@ -1,0 +1,10 @@
+H:\Programming2\pizzaapp\pizzaapp\bin\Debug\pizzaapp.exe.config
+H:\Programming2\pizzaapp\pizzaapp\bin\Debug\pizzaapp.exe
+H:\Programming2\pizzaapp\pizzaapp\bin\Debug\pizzaapp.pdb
+H:\Programming2\pizzaapp\pizzaapp\obj\Debug\pizzaapp.csprojAssemblyReference.cache
+H:\Programming2\pizzaapp\pizzaapp\obj\Debug\pizzaapp.Form1.resources
+H:\Programming2\pizzaapp\pizzaapp\obj\Debug\pizzaapp.Properties.Resources.resources
+H:\Programming2\pizzaapp\pizzaapp\obj\Debug\pizzaapp.csproj.GenerateResource.cache
+H:\Programming2\pizzaapp\pizzaapp\obj\Debug\pizzaapp.csproj.CoreCompileInputs.cache
+H:\Programming2\pizzaapp\pizzaapp\obj\Debug\pizzaapp.exe
+H:\Programming2\pizzaapp\pizzaapp\obj\Debug\pizzaapp.pdb

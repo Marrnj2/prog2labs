@@ -1,0 +1,10 @@
+H:\Programming2\marrnj2\SpriteAnimation\SpriteAnimation\bin\Debug\SpriteAnimation.exe.config
+H:\Programming2\marrnj2\SpriteAnimation\SpriteAnimation\bin\Debug\SpriteAnimation.exe
+H:\Programming2\marrnj2\SpriteAnimation\SpriteAnimation\bin\Debug\SpriteAnimation.pdb
+H:\Programming2\marrnj2\SpriteAnimation\SpriteAnimation\obj\Debug\SpriteAnimation.csprojAssemblyReference.cache
+H:\Programming2\marrnj2\SpriteAnimation\SpriteAnimation\obj\Debug\SpriteAnimation.Form1.resources
+H:\Programming2\marrnj2\SpriteAnimation\SpriteAnimation\obj\Debug\SpriteAnimation.Properties.Resources.resources
+H:\Programming2\marrnj2\SpriteAnimation\SpriteAnimation\obj\Debug\SpriteAnimation.csproj.GenerateResource.cache
+H:\Programming2\marrnj2\SpriteAnimation\SpriteAnimation\obj\Debug\SpriteAnimation.csproj.CoreCompileInputs.cache
+H:\Programming2\marrnj2\SpriteAnimation\SpriteAnimation\obj\Debug\SpriteAnimation.exe
+H:\Programming2\marrnj2\SpriteAnimation\SpriteAnimation\obj\Debug\SpriteAnimation.pdb
