@@ -15,21 +15,21 @@ namespace HeadsAndTails
 
         public Coin(Random random)
         {
-            sideUp = null;
+            this.random = random;
         }
 
         public string SideUp { get => sideUp; set => sideUp = value; }
 
         public void Throw()
         {
-            int toss = random.Next(1);
+            int toss = random.Next(2);
             if(toss == 1)
             {
-                sideUp = "Heads";
+                this.sideUp = "Heads";
             }
             else
             {
-                sideUp = "Tails";
+                this.sideUp = "Tails";
             }
         }
             

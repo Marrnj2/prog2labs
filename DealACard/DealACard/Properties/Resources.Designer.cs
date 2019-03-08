@@ -63,9 +63,9 @@ namespace DealACard.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap ACECLUBS {
+        internal static System.Drawing.Bitmap C1 {
             get {
-                object obj = ResourceManager.GetObject("ACECLUBS", resourceCulture);
+                object obj = ResourceManager.GetObject("C1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -73,9 +73,9 @@ namespace DealACard.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap ACEDIAMONDS {
+        internal static System.Drawing.Bitmap C10 {
             get {
-                object obj = ResourceManager.GetObject("ACEDIAMONDS", resourceCulture);
+                object obj = ResourceManager.GetObject("C10", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -83,9 +83,9 @@ namespace DealACard.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap ACEHEARTS {
+        internal static System.Drawing.Bitmap C11 {
             get {
-                object obj = ResourceManager.GetObject("ACEHEARTS", resourceCulture);
+                object obj = ResourceManager.GetObject("C11", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -93,9 +93,9 @@ namespace DealACard.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap ACESPADES {
+        internal static System.Drawing.Bitmap C12 {
             get {
-                object obj = ResourceManager.GetObject("ACESPADES", resourceCulture);
+                object obj = ResourceManager.GetObject("C12", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -103,9 +103,9 @@ namespace DealACard.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap EIGHTCLUBS {
+        internal static System.Drawing.Bitmap C13 {
             get {
-                object obj = ResourceManager.GetObject("EIGHTCLUBS", resourceCulture);
+                object obj = ResourceManager.GetObject("C13", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -113,9 +113,9 @@ namespace DealACard.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap EIGHTDIAMONDS {
+        internal static System.Drawing.Bitmap C2 {
             get {
-                object obj = ResourceManager.GetObject("EIGHTDIAMONDS", resourceCulture);
+                object obj = ResourceManager.GetObject("C2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -123,9 +123,9 @@ namespace DealACard.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap EIGHTHEARTS {
+        internal static System.Drawing.Bitmap C3 {
             get {
-                object obj = ResourceManager.GetObject("EIGHTHEARTS", resourceCulture);
+                object obj = ResourceManager.GetObject("C3", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -133,9 +133,9 @@ namespace DealACard.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap EIGHTSPADES {
+        internal static System.Drawing.Bitmap C4 {
             get {
-                object obj = ResourceManager.GetObject("EIGHTSPADES", resourceCulture);
+                object obj = ResourceManager.GetObject("C4", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -143,9 +143,9 @@ namespace DealACard.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap FIVECLUBS {
+        internal static System.Drawing.Bitmap C5 {
             get {
-                object obj = ResourceManager.GetObject("FIVECLUBS", resourceCulture);
+                object obj = ResourceManager.GetObject("C5", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -153,9 +153,9 @@ namespace DealACard.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap FIVEDIAMONDS {
+        internal static System.Drawing.Bitmap C6 {
             get {
-                object obj = ResourceManager.GetObject("FIVEDIAMONDS", resourceCulture);
+                object obj = ResourceManager.GetObject("C6", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -163,9 +163,9 @@ namespace DealACard.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap FIVEHEARTS {
+        internal static System.Drawing.Bitmap C7 {
             get {
-                object obj = ResourceManager.GetObject("FIVEHEARTS", resourceCulture);
+                object obj = ResourceManager.GetObject("C7", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -173,9 +173,9 @@ namespace DealACard.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap FIVESPADES {
+        internal static System.Drawing.Bitmap C8 {
             get {
-                object obj = ResourceManager.GetObject("FIVESPADES", resourceCulture);
+                object obj = ResourceManager.GetObject("C8", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -183,9 +183,9 @@ namespace DealACard.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap FOURCLUBS {
+        internal static System.Drawing.Bitmap C9 {
             get {
-                object obj = ResourceManager.GetObject("FOURCLUBS", resourceCulture);
+                object obj = ResourceManager.GetObject("C9", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -193,9 +193,9 @@ namespace DealACard.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap FOURDIAMONDS {
+        internal static System.Drawing.Bitmap D1 {
             get {
-                object obj = ResourceManager.GetObject("FOURDIAMONDS", resourceCulture);
+                object obj = ResourceManager.GetObject("D1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -203,9 +203,9 @@ namespace DealACard.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap FOURHEARTS {
+        internal static System.Drawing.Bitmap D10 {
             get {
-                object obj = ResourceManager.GetObject("FOURHEARTS", resourceCulture);
+                object obj = ResourceManager.GetObject("D10", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -213,9 +213,9 @@ namespace DealACard.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap FOURSPADES {
+        internal static System.Drawing.Bitmap D11 {
             get {
-                object obj = ResourceManager.GetObject("FOURSPADES", resourceCulture);
+                object obj = ResourceManager.GetObject("D11", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -223,9 +223,9 @@ namespace DealACard.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap JACKCLUBS {
+        internal static System.Drawing.Bitmap D12 {
             get {
-                object obj = ResourceManager.GetObject("JACKCLUBS", resourceCulture);
+                object obj = ResourceManager.GetObject("D12", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -233,9 +233,9 @@ namespace DealACard.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap JACKDIAMONDS {
+        internal static System.Drawing.Bitmap D13 {
             get {
-                object obj = ResourceManager.GetObject("JACKDIAMONDS", resourceCulture);
+                object obj = ResourceManager.GetObject("D13", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -243,9 +243,9 @@ namespace DealACard.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap JACKHEARTS {
+        internal static System.Drawing.Bitmap D2 {
             get {
-                object obj = ResourceManager.GetObject("JACKHEARTS", resourceCulture);
+                object obj = ResourceManager.GetObject("D2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -253,9 +253,9 @@ namespace DealACard.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap JACKSPADES {
+        internal static System.Drawing.Bitmap D3 {
             get {
-                object obj = ResourceManager.GetObject("JACKSPADES", resourceCulture);
+                object obj = ResourceManager.GetObject("D3", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -263,9 +263,9 @@ namespace DealACard.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap KINGCLUBS {
+        internal static System.Drawing.Bitmap D4 {
             get {
-                object obj = ResourceManager.GetObject("KINGCLUBS", resourceCulture);
+                object obj = ResourceManager.GetObject("D4", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -273,9 +273,9 @@ namespace DealACard.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap KINGDIAMONDS {
+        internal static System.Drawing.Bitmap D5 {
             get {
-                object obj = ResourceManager.GetObject("KINGDIAMONDS", resourceCulture);
+                object obj = ResourceManager.GetObject("D5", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -283,9 +283,9 @@ namespace DealACard.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap KINGHEARTS {
+        internal static System.Drawing.Bitmap D6 {
             get {
-                object obj = ResourceManager.GetObject("KINGHEARTS", resourceCulture);
+                object obj = ResourceManager.GetObject("D6", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -293,9 +293,9 @@ namespace DealACard.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap KINGSPADES {
+        internal static System.Drawing.Bitmap D7 {
             get {
-                object obj = ResourceManager.GetObject("KINGSPADES", resourceCulture);
+                object obj = ResourceManager.GetObject("D7", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -303,9 +303,9 @@ namespace DealACard.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap NINECLUBS {
+        internal static System.Drawing.Bitmap D8 {
             get {
-                object obj = ResourceManager.GetObject("NINECLUBS", resourceCulture);
+                object obj = ResourceManager.GetObject("D8", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -313,9 +313,9 @@ namespace DealACard.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap NINEDIAMONDS {
+        internal static System.Drawing.Bitmap D9 {
             get {
-                object obj = ResourceManager.GetObject("NINEDIAMONDS", resourceCulture);
+                object obj = ResourceManager.GetObject("D9", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -323,9 +323,9 @@ namespace DealACard.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap NINEHEARTS {
+        internal static System.Drawing.Bitmap H1 {
             get {
-                object obj = ResourceManager.GetObject("NINEHEARTS", resourceCulture);
+                object obj = ResourceManager.GetObject("H1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -333,9 +333,9 @@ namespace DealACard.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap NINESPADES {
+        internal static System.Drawing.Bitmap H10 {
             get {
-                object obj = ResourceManager.GetObject("NINESPADES", resourceCulture);
+                object obj = ResourceManager.GetObject("H10", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -343,9 +343,9 @@ namespace DealACard.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap QUEENCLUBS {
+        internal static System.Drawing.Bitmap H11 {
             get {
-                object obj = ResourceManager.GetObject("QUEENCLUBS", resourceCulture);
+                object obj = ResourceManager.GetObject("H11", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -353,9 +353,9 @@ namespace DealACard.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap QUEENDIAMONDS {
+        internal static System.Drawing.Bitmap H12 {
             get {
-                object obj = ResourceManager.GetObject("QUEENDIAMONDS", resourceCulture);
+                object obj = ResourceManager.GetObject("H12", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -363,9 +363,9 @@ namespace DealACard.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap QUEENHEARTS {
+        internal static System.Drawing.Bitmap H13 {
             get {
-                object obj = ResourceManager.GetObject("QUEENHEARTS", resourceCulture);
+                object obj = ResourceManager.GetObject("H13", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -373,9 +373,9 @@ namespace DealACard.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap QUEENSPADES {
+        internal static System.Drawing.Bitmap H2 {
             get {
-                object obj = ResourceManager.GetObject("QUEENSPADES", resourceCulture);
+                object obj = ResourceManager.GetObject("H2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -383,9 +383,9 @@ namespace DealACard.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap SEVENCLUBS {
+        internal static System.Drawing.Bitmap H3 {
             get {
-                object obj = ResourceManager.GetObject("SEVENCLUBS", resourceCulture);
+                object obj = ResourceManager.GetObject("H3", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -393,9 +393,9 @@ namespace DealACard.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap SEVENDIAMONDS {
+        internal static System.Drawing.Bitmap H4 {
             get {
-                object obj = ResourceManager.GetObject("SEVENDIAMONDS", resourceCulture);
+                object obj = ResourceManager.GetObject("H4", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -403,9 +403,9 @@ namespace DealACard.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap SEVENHEARTS {
+        internal static System.Drawing.Bitmap H5 {
             get {
-                object obj = ResourceManager.GetObject("SEVENHEARTS", resourceCulture);
+                object obj = ResourceManager.GetObject("H5", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -413,9 +413,9 @@ namespace DealACard.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap SEVENSPADES {
+        internal static System.Drawing.Bitmap H6 {
             get {
-                object obj = ResourceManager.GetObject("SEVENSPADES", resourceCulture);
+                object obj = ResourceManager.GetObject("H6", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -423,9 +423,9 @@ namespace DealACard.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap SIXCLUBS {
+        internal static System.Drawing.Bitmap H7 {
             get {
-                object obj = ResourceManager.GetObject("SIXCLUBS", resourceCulture);
+                object obj = ResourceManager.GetObject("H7", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -433,9 +433,9 @@ namespace DealACard.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap SIXDIAMONDS {
+        internal static System.Drawing.Bitmap H8 {
             get {
-                object obj = ResourceManager.GetObject("SIXDIAMONDS", resourceCulture);
+                object obj = ResourceManager.GetObject("H8", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -443,9 +443,9 @@ namespace DealACard.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap SIXHEARTS {
+        internal static System.Drawing.Bitmap H9 {
             get {
-                object obj = ResourceManager.GetObject("SIXHEARTS", resourceCulture);
+                object obj = ResourceManager.GetObject("H9", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -453,9 +453,9 @@ namespace DealACard.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap SIXSPADES {
+        internal static System.Drawing.Bitmap S1 {
             get {
-                object obj = ResourceManager.GetObject("SIXSPADES", resourceCulture);
+                object obj = ResourceManager.GetObject("S1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -463,9 +463,9 @@ namespace DealACard.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap TENCLUBS {
+        internal static System.Drawing.Bitmap S10 {
             get {
-                object obj = ResourceManager.GetObject("TENCLUBS", resourceCulture);
+                object obj = ResourceManager.GetObject("S10", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -473,9 +473,9 @@ namespace DealACard.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap TENDIAMONDS {
+        internal static System.Drawing.Bitmap S11 {
             get {
-                object obj = ResourceManager.GetObject("TENDIAMONDS", resourceCulture);
+                object obj = ResourceManager.GetObject("S11", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -483,9 +483,9 @@ namespace DealACard.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap TENHEARTS {
+        internal static System.Drawing.Bitmap S12 {
             get {
-                object obj = ResourceManager.GetObject("TENHEARTS", resourceCulture);
+                object obj = ResourceManager.GetObject("S12", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -493,9 +493,9 @@ namespace DealACard.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap TENSPADES {
+        internal static System.Drawing.Bitmap S13 {
             get {
-                object obj = ResourceManager.GetObject("TENSPADES", resourceCulture);
+                object obj = ResourceManager.GetObject("S13", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -503,9 +503,9 @@ namespace DealACard.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap THREECLUBS {
+        internal static System.Drawing.Bitmap S2 {
             get {
-                object obj = ResourceManager.GetObject("THREECLUBS", resourceCulture);
+                object obj = ResourceManager.GetObject("S2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -513,9 +513,9 @@ namespace DealACard.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap THREEDIAMONDS {
+        internal static System.Drawing.Bitmap S3 {
             get {
-                object obj = ResourceManager.GetObject("THREEDIAMONDS", resourceCulture);
+                object obj = ResourceManager.GetObject("S3", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -523,9 +523,9 @@ namespace DealACard.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap THREEHEARTS {
+        internal static System.Drawing.Bitmap S4 {
             get {
-                object obj = ResourceManager.GetObject("THREEHEARTS", resourceCulture);
+                object obj = ResourceManager.GetObject("S4", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -533,9 +533,49 @@ namespace DealACard.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap THREESPADES {
+        internal static System.Drawing.Bitmap S5 {
             get {
-                object obj = ResourceManager.GetObject("THREESPADES", resourceCulture);
+                object obj = ResourceManager.GetObject("S5", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap S6 {
+            get {
+                object obj = ResourceManager.GetObject("S6", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap S7 {
+            get {
+                object obj = ResourceManager.GetObject("S7", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap S8 {
+            get {
+                object obj = ResourceManager.GetObject("S8", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap S9 {
+            get {
+                object obj = ResourceManager.GetObject("S9", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -547,46 +587,6 @@ namespace DealACard.Properties {
             get {
                 object obj = ResourceManager.GetObject("Thumbs", resourceCulture);
                 return ((byte[])(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap TWOCLUBS {
-            get {
-                object obj = ResourceManager.GetObject("TWOCLUBS", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap TWODIAMONDS {
-            get {
-                object obj = ResourceManager.GetObject("TWODIAMONDS", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap TWOHEARTS {
-            get {
-                object obj = ResourceManager.GetObject("TWOHEARTS", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap TWOSPADES {
-            get {
-                object obj = ResourceManager.GetObject("TWOSPADES", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
             }
         }
     }

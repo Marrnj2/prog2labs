@@ -25,8 +25,10 @@ namespace HeadsAndTails
         {
             for(int i = 0; i < 5; i++)
             {
+  
                 coin = new Coin(random);
-                listBox1.Items.Add(coin);
+                coin.Throw();
+                listBox1.Items.Add(coin.SideUp);
             }
         }
     }

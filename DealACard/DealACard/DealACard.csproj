@@ -238,5 +238,161 @@
   <ItemGroup>
     <None Include="Resources\NINECLUBS.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\C6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\C7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\C8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\C9.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\C10.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\C11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\C12.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\C13.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D9.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D10.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D12.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\D13.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\H1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\H2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\H3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\H4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\H5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\H6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\H7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\H8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\H9.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\H10.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\H11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\H12.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\H13.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\S1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\S2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\S3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\S4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\S5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\S6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\S7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\S8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\S9.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\S10.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\S11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\S12.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\S13.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\C1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\C2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\C3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\C4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\C5.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
