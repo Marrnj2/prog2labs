@@ -23,7 +23,6 @@ namespace SlotMachine
             this.pictureBox = pictureBox;
 
             images = new Image[NIMAGES];
-
             images[0] = Properties.Resources.sheep;
             images[1] = Properties.Resources.coyote;
             images[2] = Properties.Resources.tree;
@@ -37,5 +36,6 @@ namespace SlotMachine
             pictureBox.Image = images[imageNumber];
         }
         public int ImageNumber { get => imageNumber; set => imageNumber = value; }
+
     }
 }

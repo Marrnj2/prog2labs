@@ -21,26 +21,33 @@ namespace SlotMachine
         private const int NSPINS = 20;
 
         // Feilds
-        Random random;
         private Slot slot1;
         private Slot slot2;
         private Slot slot3;
-        int winnings;
+        private int winnings;
+        private Random random = new Random();
         public Form1()
         {
             InitializeComponent();
 
+            slot1 = new Slot(random,pictureBox1);
+            slot2 = new Slot(random,pictureBox2);
+            slot3 = new Slot(random,pictureBox3);
             winnings = START;
-            slot1 = new Slot(random, pictureBox1);
-            slot2 = new Slot(random, pictureBox2);
-            slot3 = new Slot(random, pictureBox3);
+            textBox2.Text = (winnings.ToString("C"));
+
+
 
             
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if(winnings > 0)
+            slot1 = new Slot(random, pictureBox1);
+            slot2 = new Slot(random, pictureBox2);
+            slot3 = new Slot(random, pictureBox3);
+
+            if (winnings > 0)
             {
                 winnings -= LOSS;
 
@@ -54,17 +61,13 @@ namespace SlotMachine
                     Application.DoEvents();
                     Thread.Sleep(NMILIISECONDS);
                 }
+               
             }
             else
             {
                 MessageBox.Show("No money go home");
                 
             }
-        }
-
-        private void textBox2_TextChanged(object sender, EventArgs e)
-        {
-
         }
     }
 }
