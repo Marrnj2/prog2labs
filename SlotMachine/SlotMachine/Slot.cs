@@ -10,8 +10,10 @@ namespace SlotMachine
 {
     public class Slot
     {
+        // Constatnts
         private const int NIMAGES = 3;
 
+        // Feilds
         private Random random;
         private PictureBox pictureBox;
         private Image[] images;
@@ -19,6 +21,8 @@ namespace SlotMachine
 
         public Slot(Random random, PictureBox pictureBox)
         {
+            // Feild initialization 
+
             this.random = random;
             this.pictureBox = pictureBox;
 
@@ -32,6 +36,7 @@ namespace SlotMachine
 
         public void Spin()
         {
+            // Selects a random image
             imageNumber = random.Next(NIMAGES);
             pictureBox.Image = images[imageNumber];
         }

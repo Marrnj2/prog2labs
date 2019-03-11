@@ -40,6 +40,7 @@ namespace HeadsAndTails
         {
             // Uses the coin class to generate a heads or tails value and qppends it to a list 
             // repeats five times.
+            listBox1.Items.Clear();
             for(int i = 0; i < 5; i++)
             {
                 coin = new Coin(random);
