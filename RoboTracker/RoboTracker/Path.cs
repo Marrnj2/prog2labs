@@ -13,6 +13,7 @@ namespace RoboTracker
 {
     class Path
     {
+        // Feilds
         private Graphics graphics;
         private Pen pen;
         private List<Point> points;
@@ -21,6 +22,8 @@ namespace RoboTracker
 
         public Path(Graphics graphics, Pen pen)
         {
+            // Initilizing feilds 
+
             this.graphics = graphics;
             this.pen = pen;
 
@@ -29,12 +32,14 @@ namespace RoboTracker
         }
         public void StartPath(Point mousePosition)
         {
+            // Clears previously loged points and starts tracking new mouse movements
             points.Clear();
             points.Add(mousePosition);
             isDrawing = true;
         }
         public void DrawPath(Point mousePosition)
         {
+            // Draws a line where the cursor is
             if (isDrawing == true)
             {
                 points.Add(mousePosition);
@@ -44,6 +49,7 @@ namespace RoboTracker
         }
         public void StopPath()
         {
+            // Disables drawing
             isDrawing = false;
         }
         public List<Point> Points { get => points; set => points = value; }

@@ -1,4 +1,17 @@
-﻿using System;
+﻿/*
+ * Program Name:        TheRace    
+ * Project file name:   TheRace
+ * Author:              Nicholas Marr
+ * Date:                26/03/2019
+ * Language:            C#
+ * Platform:            Microsoft Visual Studio 2017
+ * Purpose:             To persuade childern into gambling  
+ * Description:         The loney toons go to the casino
+ * Known Bugs:          
+ * Additional Features: 
+ * 
+ * */
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -12,6 +25,7 @@ namespace TheRace
 {
     public partial class Form1 : Form
     {
+        // Feilds
         private Random random;
         public PictureBox[] pictureBoxes;
         public Controller controller;
@@ -20,6 +34,7 @@ namespace TheRace
 
         public Form1()
         {
+            //  Initializing feilds 
             InitializeComponent();
             pictureBoxes = new PictureBox[4];
             pictureBoxes[0] = pictureBox1;
@@ -34,12 +49,14 @@ namespace TheRace
 
         private void button1_Click(object sender, EventArgs e)
         {
+            //  Calls the start race method, enalbes the timer 
             controller.StartRace();
             timer1.Enabled = true;
         }
 
         private void timer1_Tick(object sender, EventArgs e)
         {
+            // Calls the Race method and checks to see if the race is over
             controller.Race();
             if(controller.RaceOver == true)
             {

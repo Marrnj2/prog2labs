@@ -9,14 +9,17 @@ namespace TheRace
 {
     public class Controller
     {
+        // Constatns
         private const int HORSES = 4;
 
+        // Feilds
         private Horse[] horses;
         private bool raceOver;
         private string winnerName;
 
         public Controller(Random random, int finishLine, PictureBox[] pictureBoxes)
         {
+            // Initializing Feilds
             raceOver = false;
             winnerName = "";
             horses = new Horse[HORSES];
@@ -27,6 +30,7 @@ namespace TheRace
         }
         public void StartRace()
         {
+            // Sends horses back to the starting position
             for (int i = 0; i < horses.Length; i++)
             {
                 horses[i].Restart();
@@ -34,6 +38,7 @@ namespace TheRace
         }
         public void Race()
         {
+            // Calls the horse move method and checks to see if they won the race
             if (raceOver == false)
             {
                 for (int i = 0; i < horses.Length; i++)

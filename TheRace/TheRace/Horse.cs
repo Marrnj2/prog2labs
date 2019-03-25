@@ -10,9 +10,11 @@ namespace TheRace
 {
     public class Horse
     {
+        // Constants
         public const int MAXSPEED = 100;
         private const int STARTPOS = 60;
 
+        //Feilds 
         private string name;
         private PictureBox pictureBox;
         public int finishLine;
@@ -21,6 +23,7 @@ namespace TheRace
 
         public Horse(PictureBox pictureBox, Random random, int finishLine, string name)
         {
+            // Initializing Feilds
             this.pictureBox = pictureBox;
             this.random = random;
             this.finishLine = finishLine;
@@ -28,11 +31,13 @@ namespace TheRace
         }
         public void Move()
         {
+            // Moves horses foward a random amount
            int speed = random.Next(MAXSPEED);
            pictureBox.Left += speed;
         }
         public bool CheckForWinner()
         {
+            // Checks to see if a horse passed the finish line
             if (pictureBox.Left + pictureBox.Width >= finishLine)
             {
                 return true;
@@ -41,6 +46,7 @@ namespace TheRace
         }
         public void Restart()
         {
+            // Sets the starting position for the race
             pictureBox.Left = 21;
         }
         public string Name { get => name; set => name = value; }
