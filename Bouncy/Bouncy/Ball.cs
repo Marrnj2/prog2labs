@@ -13,12 +13,14 @@ namespace Bouncy
     class Ball
     {
         private const int SIZE = 10;
+        private const int CHANGEDIRECTION = -1;
 
         private Point position;
         private Brush brush;
         private Graphics graphics;
         private Point velocity;
         private Size clientSize;
+
 
         public Ball(Point position, Color color, Graphics graphics, Point velocity, Size clientSize)
         {
@@ -57,6 +59,28 @@ namespace Bouncy
                 velocity.Y *= -1;
             }
         }
-
+        public Point Velocity
+        {
+            get { return velocity; }
+            set
+            {
+                 if(velocity.X > value.X)
+                {
+                    velocity.X = value.X;
+                }
+                 else
+                {
+                    velocity.X = value.X * CHANGEDIRECTION;
+                }
+                 if(velocity.Y > 0)
+                {
+                    velocity.Y = value.X;
+                }
+                 else
+                {
+                    velocity.Y = value.X * CHANGEDIRECTION;
+                }
+            }
+        }
     }
 }

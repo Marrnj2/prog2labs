@@ -30,8 +30,6 @@ namespace MolecularDispersion
         {
             position.X += random.Next(-SIZE, SIZE);
             position.Y += random.Next(-SIZE, SIZE);
-
-
         }
         public void Draw()
         {
