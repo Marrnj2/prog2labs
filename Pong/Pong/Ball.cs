@@ -18,25 +18,46 @@ namespace Pong
 
 
         private Graphics graphics;
-        private List<Point> points;
+        private Point position;
         private Brush brush;
         private Point velocity;
+        private Size clientSize;
 
-        public Ball (Graphics graphics, Size ClientSize)
+        public Ball (Graphics graphics, Size ClientSize, Point velocity, Point position, Color color)
         {
             this.graphics = graphics;
+            this.clientSize = ClientSize;
+            this.velocity = velocity;
+            this.position = position;
+            brush = new SolidBrush(color);
         }
         public void Draw()
         {
-
+            graphics.FillEllipse(brush, position.X, position.Y, SIZE, SIZE);
         }
         public void Move()
         {
-
+            position.X += velocity.X;
+            position.Y += velocity.Y;
         }
         public void Bounce()
         {
-
+            if (position.X <= 0)
+            {
+                velocity.X *= -1;
+            }
+            if (position.Y <= 0)
+            {
+                velocity.Y *= -1;
+            }
+            if (position.X + SIZE > clientSize.Width)
+            {
+                velocity.X *= -1;
+            }
+            if (position.Y + SIZE > clientSize.Height)
+            {
+                velocity.Y *= -1;
+            }
         }
     }
 }
