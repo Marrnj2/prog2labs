@@ -19,7 +19,7 @@ namespace Pong
             InitializeComponent();
 
             graphics = CreateGraphics();
-            world = new World(graphics, ClientSize);
+            world = new World(graphics, ClientSize, textBox1, textBox2);
             timer1.Enabled = true;
         }
 

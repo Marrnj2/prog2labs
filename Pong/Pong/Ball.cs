@@ -23,6 +23,8 @@ namespace Pong
         private Point velocity;
         private Size clientSize;
 
+        public Point Position { get => position; set => position = value; }
+
         public Ball (Graphics graphics, Size ClientSize, Point velocity, Point position, Color color)
         {
             this.graphics = graphics;
@@ -42,17 +44,9 @@ namespace Pong
         }
         public void Bounce()
         {
-            if (position.X <= 0)
-            {
-                velocity.X *= -1;
-            }
             if (position.Y <= 0)
             {
                 velocity.Y *= -1;
-            }
-            if (position.X + SIZE > clientSize.Width)
-            {
-                velocity.X *= -1;
             }
             if (position.Y + SIZE > clientSize.Height)
             {
