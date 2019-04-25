@@ -28,5 +28,10 @@ namespace Pong
             Refresh();
             world.Run();
         }
+
+        private void Form1_KeyPress(object sender, KeyPressEventArgs e)
+        {
+
+        }
     }
 }

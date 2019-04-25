@@ -15,6 +15,7 @@ namespace Pong
         private int score;
         private int velocity = 10;
         private Ball ball;
+        private Paddle paddle;
         private TextBox textBox1;
         private TextBox textBox2;
         private Size clientSize;
@@ -22,9 +23,11 @@ namespace Pong
         public World (Graphics graphics, Size ClientSize, TextBox textBox1, TextBox textBox2)
         {
             ball = new Ball(graphics, ClientSize, new Point(velocity, 0), new Point(400, 200), Color.Wheat);
+            paddle = new Paddle(graphics, ClientSize, new Point(200, 200), Color.Azure);
             this.textBox1 = textBox1;
             this.textBox2 = textBox2;
             this.clientSize = ClientSize;
+
         }
         public void Run()
         {
@@ -33,6 +36,7 @@ namespace Pong
             ball.Bounce();
             ball.Draw();
             CheckForScore();
+            paddle.Draw();
         }
         public void CheckForScore()
         {
