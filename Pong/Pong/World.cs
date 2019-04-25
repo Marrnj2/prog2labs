@@ -21,7 +21,7 @@ namespace Pong
 
         public World (Graphics graphics, Size ClientSize, TextBox textBox1, TextBox textBox2)
         {
-            ball = new Ball(graphics, ClientSize, new Point(velocity, velocity), new Point(500, 300), Color.Wheat);
+            ball = new Ball(graphics, ClientSize, new Point(velocity, 0), new Point(400, 200), Color.Wheat);
             this.textBox1 = textBox1;
             this.textBox2 = textBox2;
             this.clientSize = ClientSize;
@@ -42,17 +42,15 @@ namespace Pong
                 score = Convert.ToInt32(textBox1.Text);
                 score++;
                 textBox1.Text = score.ToString();
+                ball.ResetBall();
             }
             if (ball.Position.X > clientSize.Width)
             {
                 score = Convert.ToInt32(textBox2.Text);
                 score++;
                 textBox2.Text = score.ToString();
+                ball.ResetBall();
             }
-        }
-        public void ResetBall()
-        {
-            
         }
     }
 }

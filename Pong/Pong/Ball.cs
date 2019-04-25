@@ -15,7 +15,7 @@ namespace Pong
     {
         private const int SIZE = 30;
         private const int CHANGEDIRECTION = -1;
-
+        private const int STARTINGPOSITION = 0;
 
         private Graphics graphics;
         private Point position;
@@ -32,6 +32,11 @@ namespace Pong
             this.velocity = velocity;
             this.position = position;
             brush = new SolidBrush(color);
+        }
+        public void ResetBall()
+        {
+            position.X = 450;
+            position.Y = 200;
         }
         public void Draw()
         {
